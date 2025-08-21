@@ -1,0 +1,12 @@
+/UserSettings
+/Library
+/Logs
+/*.vsconfig
+/*.csproj
+/*.sln
+/Temp
+/.vs
+/obj
+/Assets/InputSystem_Actions 1.inputactions
+/Assets/InputSystem_Actions 1.inputactions.meta
+/Assets/*.bak
